@@ -10,5 +10,10 @@ I'm by no means a very experienced pilot!
 
 # Content
 
-[Rescue](rescue.md)
-[Takeoff](takeoff.md)
+* [Takeoff](takeoff.md)
+
+* [Landing](landing.md)
+
+* [Rescue](rescue.md)
+
+* [Miscellaneous](miscellaneous.md)
