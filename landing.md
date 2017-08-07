@@ -6,3 +6,7 @@
 * If you fly a wind gradient (very common on landings) after releasing the breaks the glider may remain parachutal, because of the lower wind speed on the lower layers of the gradient. Keep the hands up! Breaking could develop a full stall. Be aware that when the gradient decrese the glider will start flying again and may shoot. It is possible to break the surge but be carefull not to stall it!
 
 
+## Thermal
+* Be prepared to be taken off by a thermal and inexpectedly gain some height. Have a plan B for it.
+* If the thermal is long enough consider turning and taking it
+* Avoid to fly near triger points. If a thermal thrigers can be very turbulent.
