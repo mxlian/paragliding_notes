@@ -1,3 +1,14 @@
+* Allwasys keep landing area in glide ratio
+* Learn to interpret glide ratio with intercept point between you and landing place:
+   ** Evertyhing after(further) the intercept point gets higher (you are in positive glide ratio, will reach landing)
+   ** Everithing after(further) the intercept point gets lower (you are fucked :P)
+* The altitud where you make your position circles is a function of the distance to final target
+* Before doing the landing or during determine wind direction and wind speed (this allows to estimate the existance and magnitud of a wind gradient)
+* On turbulence follow this rules:
+   ** Turn towars target in sink
+   ** Turn away from target in lift
+* Below 5 meters don't slow much more than best glide. This is critical height
+
 ## Pumping the breaks
 
 * The idea is to reduce the glide angle as much as possible by reaching the stall point and then releasing repeatedly. 
