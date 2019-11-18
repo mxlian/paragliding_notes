@@ -7,7 +7,12 @@ No yet 100% sure but: Yes. The glider will climb and remain behind the pilot (hi
 To be answered
 
 #### Doing a spiral fast exit (with massive shotting) prevents flying on your own turbulence?
-To be answered
+Yes, because the exit trajectory goes outside the cilinder/cone you were describing with your spiral. You exit almost streigth out of it.
+
+## Undesired states
+#### If pumping the breaks on tight landing, you hit the gradient and the glider starts to stall. You release breaks completely. Can the massive gradient make the glider go into full stall?
+No, the glider will keep bitting trying to fly again.  - Gary (from XDreamFly)
+If the gradient is strong it can remain in parachutal until it can fly again, which can be too close to the ground to allow regaining speed and land softly. So if a gradient situation is expected be aware you can end up landing in a deep stall in the worst case. Which is hard but not that hard.
 
 ## Wingover
 #### Is it possible to fall into the cannopy while performing this manover?
